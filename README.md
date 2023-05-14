@@ -1,4 +1,4 @@
-# Gym
+# Gym Responsive Website
 
 A Rsponsive Gym website using php as backend
 # Technologies used
